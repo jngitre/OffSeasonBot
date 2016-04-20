@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package command;
+package org.lasa.ophseason.statics;
 
 /**
  *
  * @author Laura
  */
-public class SetDriveMode {
+public class Constants {
     
 }

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package subsystem;
+package org.lasa.ophseason.command;
 
 /**
  *
  * @author Laura
  */
-public class Intake {
+public class CommandManager {
     
 }

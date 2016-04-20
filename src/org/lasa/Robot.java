@@ -44,7 +44,6 @@ public class Robot extends HazyIterative {
 
     @Override
     public void autonomousContinuous() {
-        driveTrain.run();
     }
 
     @Override
